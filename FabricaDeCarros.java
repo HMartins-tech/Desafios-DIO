@@ -25,7 +25,6 @@ public class Main{
       
         custoConsumidor = (Distribuidor + ValorImpostos + custoFabrica);
       
- 
         System.out.println(custoConsumidor);
 	}
 }
